@@ -1,5 +1,7 @@
 # fiss
 
+[![Join the chat at https://gitter.im/zhangyihua/fiss](https://badges.gitter.im/zhangyihua/fiss.svg)](https://gitter.im/zhangyihua/fiss?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 一个基于 [fis3](http://fis.baidu.com/fis3/index.html) 的前端解决方案。
 
 ## 安装
